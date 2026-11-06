@@ -1,0 +1,16 @@
+# ide
+.vscode/
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# packages
+diffusers/
+
+# big files
+outputs/
+datasets/*
+calc_metrics/models/
+calc_metrics/samples/

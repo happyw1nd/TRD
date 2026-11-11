@@ -4,7 +4,7 @@
 
 Official implementation of **"Trajectory-Regularized Distribution Distillation for One-Step Generation."**
 
-> 📄 **Paper:** Coming soon.
+> 📄 **Paper:** https://arxiv.org/abs/2611.12978
 
 ## ✨ Highlights
 
@@ -174,8 +174,18 @@ See [`calc_metrics/README.md`](calc_metrics/README.md) for the exact input layou
 
 ## 📚 Citation
 
-If you find this repository useful, please consider citing our work. Citation
-information will be added with the paper release.
+If you find this repository useful, please consider citing our work. 
+```
+@misc{zhao2026trd,
+      title={Trajectory-Regularized Distribution Distillation for One-Step Generation}, 
+      author={An Zhao and Yixiang Zhou and Zejian Li and Yi Guo and Pei Chen and Lingyun Sun},
+      year={2026},
+      eprint={2611.12978},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2611.12978}, 
+}
+```
 
 ## 🙏 Acknowledgements
 
